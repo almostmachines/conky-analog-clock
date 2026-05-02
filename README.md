@@ -6,7 +6,7 @@ An analog clock for Conky with transparent background.
 
 ## Requirements
 
-- [https://github.com/brndnmtthws/conky](Conky) *>= 1.22*
+- [Conky](https://github.com/brndnmtthws/conky) *>= 1.22*
 
 ## Installation
 
